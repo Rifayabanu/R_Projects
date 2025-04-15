@@ -7,15 +7,21 @@ Certified through the Google Data Analytics Professional Certificate, I bring a 
 
 💼 Past Experience
 1. IT Secretary – Qatar Fuel Additives Company (QAFAC)
+   
 --> Analyzed budget variances and created reports using MS Excel
+
 --> Supported data-driven decision-making through accurate reporting
 
 2. Product Analyst – Scope International Pvt Ltd
+   
 --> Managed and analyzed large datasets
+
 --> Troubleshot and optimized SQL queries to improve performance and support operations
 
 3. Data Analyst Trainee – Victoria Solutions (UK)
+   
 --> Gained practical experience with Python, SQL, Tableau, and Power BI
+
 --> Delivered real-world projects as part of a structured hands-on training program
 
 After a career break, I have re-engaged with the field and am actively building and refining my portfolio.

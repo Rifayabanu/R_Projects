@@ -1,4 +1,5 @@
 👋 Welcome to My Data Analytics Projects
+
 Hi, I'm a certified Data Analyst with a strong foundation in IT and hands-on experience in SQL, Excel, Python, and data visualization tools like Tableau and Power BI. This repository showcases a range of my work—projects that demonstrate my ability to transform raw data into clear, actionable insights.
 
 🔍 About Me

@@ -36,7 +36,7 @@ After a career break, I have re-engaged with the field and am actively building 
 📁 Repository Highlights
 This GitHub repo includes:
 
-📊 Dashboard Projects – Interactive dashboards built using Power BI and Tableau
+📊 Dashboard Projects – using Excel
 
 🐍 Python Scripts – Data wrangling, analysis, and visualization using pandas, matplotlib, seaborn
 
